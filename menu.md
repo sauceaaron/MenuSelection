@@ -6,3 +6,9 @@
 - [ ] [Steak $18.99](https://one-shore.com/contact?order=steak)
 - [ ] [Salad $7.99](https://one-shore.com/contact?order=salad)
 - [ ] [Chicken $12.99](https://one-shore.com/contact?order=chicken)
+
+
+<ul id="menu">
+  <li class="entree"> <button id="steak">Steak</button> </li>
+  <li class="entree"> <a href="#lobster" id="lobster">Lobster</a> </li>
+</ul>
