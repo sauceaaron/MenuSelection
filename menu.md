@@ -1,9 +1,9 @@
 <h1> Menu </h1>
 
-- [ ] Lobster $29.99](lobster.html)
-- [ ] [Steak $18.99]
-- [ ] [Salad $7.99]
-- [ ] [Chicken $12.99]
+- [ ] [Lobster $29.99](lobster.html)
+- [ ] [Steak $18.99] (steak.html)
+- [ ] [Salad $7.99] (salad.html)
+- [ ] [Chicken $12.99] (chicken.html)
 
 
-[![button]](https://mattermost.com)
+[![button](http://one-shore.com/images/oneshore_logo.png)](https://one-shorecom.com)
