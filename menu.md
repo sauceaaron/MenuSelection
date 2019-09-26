@@ -6,4 +6,4 @@
 - [ ] [Chicken $12.99](chicken.html)
 
 
-[![button](http://one-shore.com/images/oneshore_logo.png)](https://one-shorecom.com)
+[![button](http://one-shore.com/images/shell.png)](https://one-shorecom.com)
