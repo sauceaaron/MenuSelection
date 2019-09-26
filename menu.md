@@ -2,7 +2,7 @@
 
 <h1> Menu </h1>
 
-- [ ] [Lobster $29.99{id='1'}](#lobster)
+- [ ] [Lobster $29.99]{id='1'}(#lobster)
 - [ ] [Steak $18.99](https://one-shore.com/contact?order=steak)
 - [ ] [Salad $7.99](https://one-shore.com/contact?order=salad)
 - [ ] [Chicken $12.99](https://one-shore.com/contact?order=chicken)
